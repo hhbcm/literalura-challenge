@@ -1,13 +1,3 @@
 <h1 align="center"> Practicando Spring Boot: Challenge Literalura </h1>
 
-<img src="https://img.shields.io/badge/STATUS-FINALIZADO-green" display="inline" >
-
-En este emocionante desafío de programación, cree mi propio catálogo de libros: el LiterAlura. Aprendi a realizar solicitudes a una API de libros, a manipular datos JSON, guardarlos en una base de datos y, finalmente, a filtrar y mostrar los libros y autores de interés.
-
-Los pasos seguidos completar este desafío se detallarán a continuación:
-- Configuración del Ambiente Java;
-- Creación del Proyecto;
-- Consumo de la API;
-- Análisis de la Respuesta JSON;
-- Inserción y consulta en la base de datos;
-- Exibición de resultados a los usuarios;
+El proyecto LiterAlura es una aplicación de consola desarrollada con Spring Boot que interactúa con la API de Gutendex.com para acceder a una amplia colección de información sobre libros. Esta aplicación permite a los usuarios obtener libros de la API y almacenarlos en una base de datos para su posterior recuperación. Los usuarios también pueden consultar los libros guardados por título, género, idioma y autor. Además, la aplicación admite operaciones para recuperar autores vivos después de una fecha determinada introducida por el usuario.
